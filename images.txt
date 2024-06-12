@@ -1,4 +1,2 @@
-python:alpine3.5
-alpine
 kasmweb/nginx:1.25.3
 atlassian-confluence:7.2.0
