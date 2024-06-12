@@ -1,2 +1,4 @@
-kasmweb/nginx:1.25.3
-atlassian-confluence
+cptactionhank/atlassian-confluence
+bitnami/dokuwiki
+jgraph/drawio
+dreamacro/clash
