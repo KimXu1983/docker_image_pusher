@@ -4,3 +4,4 @@ jgraph/drawio
 dreamacro/clash
 oldiy/chrome-novnc
 wordpress
+mysql
