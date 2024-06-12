@@ -3,3 +3,4 @@ bitnami/dokuwiki
 jgraph/drawio
 dreamacro/clash
 oldiy/chrome-novnc
+wordpress
