@@ -1,2 +1,2 @@
 kasmweb/nginx:1.25.3
-atlassian-confluence:7.2.0
+atlassian-confluence
