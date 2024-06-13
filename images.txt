@@ -5,3 +5,4 @@ dreamacro/clash
 oldiy/chrome-novnc
 wordpress
 mysql
+mysql:5.7
