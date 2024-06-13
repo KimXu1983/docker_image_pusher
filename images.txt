@@ -1,4 +1,4 @@
-cptactionhank/atlassian-confluence
+atlassian/confluence-server
 bitnami/dokuwiki
 jgraph/drawio
 dreamacro/clash
