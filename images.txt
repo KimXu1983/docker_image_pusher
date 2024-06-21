@@ -1,3 +1,4 @@
+apache/superset
 atlassian/confluence-server
 bitnami/dokuwiki
 jgraph/drawio
