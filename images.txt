@@ -1,3 +1,4 @@
+metabase/metabase
 apache/superset
 atlassian/confluence-server
 bitnami/dokuwiki
