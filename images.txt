@@ -9,3 +9,4 @@ dreamacro/clash
 oldiy/chrome-novnc
 wordpress
 mysql
+portainer
