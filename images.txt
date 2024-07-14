@@ -1,3 +1,4 @@
+adguard/adguardhome
 whyour/qinglong
 metabase/metabase
 apache/superset
