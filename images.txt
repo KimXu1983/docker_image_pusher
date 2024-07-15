@@ -1,4 +1,4 @@
-portianer
+portianer/portianer
 adguard/adguardhome
 whyour/qinglong
 metabase/metabase
