@@ -1,3 +1,4 @@
+jc21/nginx-proxy-manager
 portainer/portainer
 adguard/adguardhome
 whyour/qinglong
