@@ -1,3 +1,4 @@
+laoyutang/clash-and-dashboard
 jc21/nginx-proxy-manager
 portainer/portainer
 adguard/adguardhome
