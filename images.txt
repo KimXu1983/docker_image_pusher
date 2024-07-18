@@ -1,3 +1,4 @@
+chishin/nginx-proxy-manager-zh
 laoyutang/clash-and-dashboard
 jc21/nginx-proxy-manager
 portainer/portainer
