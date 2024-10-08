@@ -13,3 +13,5 @@ dreamacro/clash
 oldiy/chrome-novnc
 wordpress
 mysql
+1panel/maxkb
+ollama/ollama
