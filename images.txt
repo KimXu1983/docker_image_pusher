@@ -1,3 +1,4 @@
+shadowsocks/shadowsocks-libev
 chishin/nginx-proxy-manager-zh
 laoyutang/clash-and-dashboard
 jc21/nginx-proxy-manager
@@ -15,4 +16,3 @@ wordpress
 mysql
 1panel/maxkb
 ollama/ollama
-shadowsocks
